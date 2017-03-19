@@ -8,7 +8,7 @@ public class Primer {
 		
 		// TODO Auto-generated method stub
 		
-	int x =16-1*0+2/2;
+	int x =16-1*0+4/2;
 		
 		//System.out.println(x);
 		
